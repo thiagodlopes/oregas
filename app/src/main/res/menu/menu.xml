@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/moistureIcon"
+        android:icon="@drawable/moisture_icon"
+        android:title="Umidade" />
+    <item
+        android:id="@+id/waterLevelIcon"
+        android:icon="@drawable/water_level_icon"
+        android:title="Reservatório" />
+</menu>
